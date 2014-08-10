@@ -1,6 +1,6 @@
 
 (defproject whoops/reagent "0.4.3"
-  :url "http://github.com/holmsand/reagent"
+  :url "http://github.com/whoops/reagent"
   :license {:name "MIT"}
   :description "A simple ClojureScript interface to React"
   :dependencies [[org.clojure/clojure "1.5.1"]
