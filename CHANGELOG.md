@@ -1,6 +1,11 @@
 
 # Changelog
 
+## 0.4.3
+
+- Bundle React 11.1
+- Fix unreachable code warnings
+
 ## 0.4.2
 
 - Allow multi-methods as component functions.
