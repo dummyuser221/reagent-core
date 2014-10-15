@@ -60,8 +60,8 @@
 (defn custom-wrapper [key f]
   (case key
     :getDefaultProps
-    (throw (js/Error. "getDefaultProps not supported yet"))
-
+    (assert false "getDefaultProps not supported yet")
+    
     :getInitialState
     (fn []
       (this-as c
