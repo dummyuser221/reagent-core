@@ -1,5 +1,5 @@
 
-# Reagent
+# Reagentad
 
 A simple [ClojureScript](http://github.com/clojure/clojurescript) interface to
 [React](http://facebook.github.io/react/).
